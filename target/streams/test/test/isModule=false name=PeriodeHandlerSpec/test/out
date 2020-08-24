@@ -1,0 +1,7 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mPeriodeHandlerSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mnumberOfPeriods[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return the digits of a string as an Int[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce IllegalArgumentException if more or less than one digit sequence is delivered[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32munixToSubtract[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return the neccessary microseconds needed to retrieve the data[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mdefined in the PERIODE environmentvariable[0m[0m

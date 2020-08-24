@@ -1,0 +1,7 @@
+[0m[[0m[0mdebug[0m] [0m[0m"not up to date. inChanged = true, force = true[0m
+[0m[[0m[0mdebug[0m] [0m[0mUpdating ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone updating [0m
+[0m[[0m[33mwarn[0m] [0m[0mFound version conflict(s) in library dependencies; some are suspected to be binary incompatible:[0m
+[0m[[0m[33mwarn[0m] [0m[0m	* com.softwaremill.sttp.client:core_2.12:2.2.4 is selected over 2.0.0-RC11[0m
+[0m[[0m[33mwarn[0m] [0m[0m	    +- ny:ny_2.12:0.1                                     (depends on 2.2.4)[0m
+[0m[[0m[33mwarn[0m] [0m[0m	    +- com.softwaremill.sttp.client:okhttp-backend_2.12:2.0.0-RC11 (depends on 2.0.0-RC11)[0m

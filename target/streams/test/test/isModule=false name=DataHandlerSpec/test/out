@@ -1,0 +1,10 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mDataHandlerSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mbuildData[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return a ujson.Value with structure: observed -> param -> (value-> sum(value), counts -> count)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mupdateData[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- should update the given completeData withh the given currentData so the existing values gets summed and counts gets incremented *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  Expected 8, but got 4.0 (DataHandlerSpec.scala:27)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mputParam[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return a ujson.Value with value -> value and counts -> 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mputObserved[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return a ujson.Value with param -> (value-> value, counts -> 1)[0m[0m
